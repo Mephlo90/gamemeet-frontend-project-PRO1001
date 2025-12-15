@@ -117,3 +117,19 @@ The AI chatbot uses the OpenAI API.
 Replace your API key in script.js for full functionality.
 
 Proper error handling is implemented to avoid breaking the UI if the API fails.
+
+Regarding Commits:
+The project was developed locally and committed once the feature set stabilized. Commits were organized by pages to keep the repository clean and readable.
+
+## AI Assistance Disclosure
+
+This project was developed with the assistance of AI tools (ChatGPT) for:
+- Code suggestions and refactoring
+- UI/UX ideas
+- Debugging support
+- Documentation drafting
+
+All code was reviewed, adapted, and integrated manually.  
+The final architecture, feature selection, and implementation decisions were made by the author.
+
+AI-generated features were evaluated for correctness, accessibility, and performance before inclusion.
